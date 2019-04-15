@@ -12,6 +12,5 @@ for (i = 0; i < botoes.length; i++) {
             pai.classList = "expandido"
             botaoAtual.path[0].innerHTML="-"
         }
-        console.log(botaoAtual.path[0].innerHTML)
     }, false);
 }
